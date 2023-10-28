@@ -1,0 +1,9 @@
+
+printy==2.2.0
+
+pyfiglet==0.7
+
+requests==2.26.0
+
+random
+
